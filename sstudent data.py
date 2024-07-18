@@ -43,7 +43,7 @@ for index in top_scorers_indices:
 
 
 #                   question 3
-# print("display name , id and age of students who are bottom three scorer in computer : ")
+# print("display name , id and age of students who are bottom three scorer in computer : ")        https://github.com/manishvishhnoi05050/python.git
 
 computer_scores = [int(student[7]) for student in studentdata[1:]]
 names = [student[1] for student in studentdata[1:]]
