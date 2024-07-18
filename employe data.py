@@ -24,4 +24,5 @@ for i in range(1000):
     })
 
 df = pd.DataFrame(data)
-df.to_excel('Assignment3.xlsx', index=False)
+df.to_excel('Assignment3.xlsx', index=False)https://github.com/manish569975/Manish.git
+https://github.com/manish569975/Manish.githttps://github.com/manish569975/Manish.git
